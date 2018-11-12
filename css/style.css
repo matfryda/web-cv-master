@@ -28,9 +28,9 @@ header{
     rgb(0, 136, 255, 0.4), 
     rgb(220, 66, 37, 0.3)
     ),
-    url("../img/Blue-Textured.jpg")
+    url("../img/nowe.png")
 	center/cover no-repeat;
-    color: white;
+    color: black;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -40,7 +40,7 @@ header h1{
     text-transform: uppercase;
     font-weight: 300;
     letter-spacing: 2px;
-    text-shadow: 1px 2px black;
+    /*text-shadow: 1px 2px black;*/
     margin: 0.5em 0 0.5em 0;
 }
 header p{
@@ -65,7 +65,7 @@ header p{
     height: 1.5em;
     margin: 10px;
     text-align: center;
-    color:white;
+    color:whitesmoke;
     border: 1px solid white;
     border-radius: 50%;
     padding: 7px;
@@ -191,14 +191,14 @@ footer{
     rgb(0, 136, 255, 0.4), 
     rgb(220, 66, 37, 0.3)
     ),
-    url("../img/Blue-Textured.jpg")
+    url("../img/nowe.png")
 	center/cover no-repeat;
-    color: white;
+    color: black;
 }
 footer h2{
-    color: white;
+    color: black;
     letter-spacing: 2px;
-    text-shadow: 1px 1px black;
+    /*text-shadow: 1px 1px black;*/
     margin: 0.5em 0 0.5em 0;
     font-weight: 300;
 }

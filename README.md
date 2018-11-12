@@ -1,9 +1,7 @@
 ## Resume
-Simple web resume made in HTML/CSS - matbylin@gmail.com
+Simple web resume made in HTML/CSS -mateuszfryda@gmail.com
 
 ## GitHub Pages
-Check my resume on github pages : [MatBylinWebResume](https://matbylin.github.io/web-cv/)
+Check my resume on github pages : [MateuszFrydaWebResume](https://matfryda.github.io/WEB_CV/)
 
-## Credits
-* Background image from [unsplash.com/@lifeofizaac_](https://unsplash.com/@lifeofizaac_/)
-* Face avatar from [face.co](https://face.co/)
+
